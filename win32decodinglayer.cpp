@@ -850,7 +850,7 @@ protected:
 
         resource2->Release();
 
-        printf("video frame decoded!\n");
+        printf("video frame decoded! exiting cleanly! (change code to decode more frames)\n");
         exit(0);
 #if 0
         // XXX this is where we pass the decoding frame texture to the surrounding code,

@@ -1,0 +1,11 @@
+Build code like this under Visual Studio cmd prompt:
+
+mkdir build
+cd build
+cmake ..
+cmake --build .
+
+Which will produce amdtest1.exe
+
+Run it with the provided example video file:
+amdtest.exe jacob-warped.h265

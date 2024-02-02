@@ -1,0 +1,8 @@
+Parts of this code have been copied from Chromium is under MIT license.
+Parts of this code have been copied from libva-utils and is covered by Intel's license.
+
+The rest is Copyright 2023-2024 Jamscape ApS, provided only for informational
+purposes, all rights reserved.  This code may not be used outside the scope of
+debugging underlying platform drivers, without an explicit license from
+Jamscape ApS.
+
